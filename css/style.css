@@ -1,0 +1,53 @@
+/*#top_header {
+	border-bottom: 2px solid;
+}*/
+
+body {
+	background: #fff;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* header section */
+
+header hr{
+	display: block;
+	border: 2px #7d97ad solid;
+	margin: 0.5% auto;
+}
+
+#developer-name {
+	color: #2d3c49;
+	font-weight: 200;
+	font-size: 3rem;
+	margin-bottom: 0px;
+}
+
+#developer-title {
+	font-weight: 500;
+	color: #2d3c49;
+	font-size: 1.2rem;
+}
+
+/* featured work section */
+
+.card {
+	text-align: center;
+	border: none;
+}
+
+.section-title{
+  color: #7d97ad;
+  padding: 4% 2% 0px;
+}
+
+.card-title {
+  color: #2d3c49;
+  text-transform: uppercase;
+	font-size: 1.5rem;
+	font-weight:500;
+}
+
+.card-body a{
+	color: #2d3c49;
+	font-weight: 200;
+}
